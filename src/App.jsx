@@ -14,7 +14,7 @@ import "leaflet-defaulticon-compatibility";
 import "leaflet-defaulticon-compatibility/dist/leaflet-defaulticon-compatibility.css";
 
 // Destination: Nangloi Metro
-const destination = [28.682356, 77.064675];
+const destination = [28.68223, 77.05798];
 
 // Custom icons
 const sourceIcon = L.icon({
